@@ -1,0 +1,5 @@
+C:\Users\Nandaardian19\source\repos\tpmod3_no1_1302194049\tpmod3_no1_1302194049\obj\Debug\net6.0\tpmod3_no1_1302194049.csproj.AssemblyReference.cache
+C:\Users\Nandaardian19\source\repos\tpmod3_no1_1302194049\tpmod3_no1_1302194049\obj\Debug\net6.0\tpmod3_no1_1302194049.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nandaardian19\source\repos\tpmod3_no1_1302194049\tpmod3_no1_1302194049\obj\Debug\net6.0\tpmod3_no1_1302194049.AssemblyInfoInputs.cache
+C:\Users\Nandaardian19\source\repos\tpmod3_no1_1302194049\tpmod3_no1_1302194049\obj\Debug\net6.0\tpmod3_no1_1302194049.AssemblyInfo.cs
+C:\Users\Nandaardian19\source\repos\tpmod3_no1_1302194049\tpmod3_no1_1302194049\obj\Debug\net6.0\tpmod3_no1_1302194049.csproj.CoreCompileInputs.cache
